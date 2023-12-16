@@ -2,7 +2,7 @@
 "akwam": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(akwnet|sv|ak.sv)\\.[^\\/,^\\.]{2,}\\/.+",
 "bostream": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(bostream|xkanga|easyplayer|vps.putmovies.com)\\.[^\\/,^\\.]{2,}\\/.+",
 "dooosub": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(dooosub)\\.[^\\/,^\\.]{2,}\\/.+",
-"vupload": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(faselhd|fasellhd|faaselhd|faseelhd|faasseelhd|faselhdd|faasellhd|fassellhd)\\.[^\\/,^\\.]{2,}\\/.+",
+"vupload": "faselhd|fasellhd|faaselhd|faseelhd|faasseelhd|faselhdd|faasellhd|fassellhd",
 "upstream": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(dfdfdfgdfg)\\.[^\\/,^\\.]{2,}\\/.+",
 "dramacool": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(playr.dramacool)\\.[^\\/,^\\.]{2,}\\/.+",
 "vedsharr": "https?:\\/\\/(([0-9a-zA-Z]+)\\.)?(vedsharr)\\.[^\\/,^\\.]{2,}\\/.+",

@@ -14,6 +14,5 @@
 	"wecima": "weciimaa|wecima|mycimmaa|mycima1|my-we-cima",
 	"akwam": "akwnet|sv|ak.sv",
 	"hdup": "hd-cdn|hdup7|hdup|hdup3|hdup|hd-cdn|p6.hd-cdn|film77|seedrama.film77|sp29.film77",
-	"playerex":"true"
         "allsite": "(?:(?:https?|ftp|file):\\/\\/|www\\.|ftp\\.)(?:\\([-A-Z0-9+&@#\\/%=~_|$?!:,.]*\\)|[-A-Z0-9+&@#\\/%=~_|$?!:,.])*(?:\\([-A-Z0-9+&@#\\/%=~_|$?!:,.]*\\)|[A-Z0-9+&@#\\/%=~_|$])"
 }
